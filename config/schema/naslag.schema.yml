@@ -1,0 +1,9 @@
+# Schema for the configuration files of the Naslag theme.
+
+stark.settings:
+  type: theme_settings
+  label: 'Naslag settings'
+
+stark.breakpoints:
+  type: theme_breakpoints_default
+  label: 'Naslag breakpoints'

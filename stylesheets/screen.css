@@ -1,0 +1,26 @@
+/* Use the screen file to centralize imports */
+/* All color variables go here, I would like to follow some design naming convention,
+but at the time I'm making names up on the fly */
+/* Use the base file for the global element structure of the layout */
+/* line 3, ../sass/_base.scss */
+body {
+  background: #f6f6f2;
+  color: #161616;
+}
+
+/* line 8, ../sass/_base.scss */
+header {
+  background: #79b2e9;
+  color: #f6f6f2;
+}
+
+/* line 13, ../sass/_base.scss */
+main {
+  background: #fcfcfc;
+}
+
+/* Layout sections */
+/* line 1, ../sass/_header.scss */
+header a {
+  color: #f6f6f2;
+}

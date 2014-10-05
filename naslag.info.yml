@@ -1,0 +1,9 @@
+name: Naslag
+type: theme
+description: 'A flat desing theme, focused on reading.' 
+package: Other
+version: VERSION
+core: 8.x
+stylesheets:
+  all:
+    - stylesheets/screen.css

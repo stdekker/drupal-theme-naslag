@@ -1,0 +1,15 @@
+/* Use the base file for the global element structure of the layout */
+
+body {
+  background: $colorBase;
+  color: $colorRead;
+}
+
+header {
+  background: $colorPrimary;
+  color: $colorBase;
+}
+
+main {
+  background: $colorBright;
+}
